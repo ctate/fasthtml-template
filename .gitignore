@@ -1,2 +1,11 @@
 .vercel
 .sesskey
+get-pip.py
+*.tmp
+*.temp
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
