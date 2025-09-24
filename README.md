@@ -1,4 +1,4 @@
-# FastHTML Boilerplate
+# hello world
 
 Deploy your [FastHTML](https://fastht.ml/) project to Vercel with zero configuration.
 
